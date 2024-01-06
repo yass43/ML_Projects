@@ -16,7 +16,7 @@ This repository contains three machine learning projects completed during a mach
 
 ## Project 3: Time-Series Data Competition
 
-**Description:** The third project is a time-series data competition. Given human sensors time-series measurements, try to classify the sport activity an individual is performing.
+**Description:** The third project is a time-series data competition. Given human sensors time-series measurements, try to classify the sport activity an individual is performing.  
 **GitHub Link:** [Project 3](https://www.kaggle.com/competitions/iml2021)
 
 
