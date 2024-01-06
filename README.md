@@ -16,8 +16,7 @@ This repository contains three machine learning projects completed during a mach
 
 ## Project 3: Time-Series Data Competition
 
-**Description:** The third project is a time-series data competition, where we utilize scikit-learn to predict future trends. This project showcases our ability to work with real-world data, preprocess it, and build predictive models.
-
+**Description:** The third project is a time-series data competition. Given human sensors time-series measurements, try to classify the sport activity an individual is performing.
 **GitHub Link:** [Project 3](https://www.kaggle.com/competitions/iml2021)
 
 
